@@ -1,0 +1,11 @@
+Frequency cheat sheet
+Topic    
+                           
+Arrays / sliding window / prefix sum 
+Hash maps	                         
+Sorting & binary search	            
+Trees & graphs (DFS/BFS)	        	
+Dynamic programming                  
+Topological sort	               
+Joins & window functions	       
+Heaps / top-K	                   
