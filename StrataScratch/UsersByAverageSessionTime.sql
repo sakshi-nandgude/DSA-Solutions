@@ -1,3 +1,4 @@
+Yes — if you're storing this as a **learning SQL file**, put the explanation entirely in SQL comments before each section. You can copy this directly into your `.sql` file.
 
 ```sql
 /*
